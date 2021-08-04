@@ -22,7 +22,7 @@ Web page that I scraped : https://www.walmart.com/reviews/product/14898365
 8. Exported all lists to csv file. 
 
       
-                           ---------------Problems faced and Solved---------------
+                         ---------------Problems faced and Solved---------------
 
 
 1. All had unique xpaths, figured out what part was varying for every feature and iterated through
