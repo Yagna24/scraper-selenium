@@ -5,7 +5,7 @@ Web page that I scraped : https://www.walmart.com/reviews/product/14898365
 
                                --------------Steps------------
 
-1. Used chrome webdriver to open the given link.
+1. Used chrome webdriver.
 
 2. Went to all reviews page and checked number of reviews on every page which was 20. 
 
